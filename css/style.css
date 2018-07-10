@@ -1,8 +1,21 @@
 h1 {
     font: bold;
-    font-size: x-large; 
-    color: red;
+    font-size: 2em; 
+    color: black;
+    text-indent: 4ch;
 }
-body{
-    background-color: purple;
+
+h2 {
+    font: bold;
+    font-size: 1.5em; 
+    color: black;
+    text-indent: 6ch;
+}
+
+div {
+    text-indent: 10ch;
+}
+
+footer {
+    text-indent: 9.5ch;
 }
