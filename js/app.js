@@ -1,9 +1,8 @@
 'use strict';
 var correctAnswer = 0;
 
-
-alert("Do you want to know more about Joyce? She is a very cool developer!")
-alert("Here are some fun facts about Joyce!")
+alert('Do you want to know more about Joyce? She is a very cool developer!');
+alert('Here are some fun facts about Joyce!');
 
 
 var answerLanguage = prompt('Joyce is proficient in oral and written Chinese-English translation - True or False?').toUpperCase();
@@ -98,7 +97,7 @@ for (i=0; i<3; i++) {
 }
 
 if (answerNum!==10) {
-  alert('You have used all four chances. Sorry you didn\'t get the right answer.')
+  alert('You have used all four chances. Sorry you didn\'t get the right answer.');
   console.log ('Score Log: ', correctAnswer);
 }
 if (answerNum===10) {
