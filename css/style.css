@@ -19,3 +19,15 @@ div {
 footer {
     text-indent: 9.5ch;
 }
+
+
+
+ol {
+    margin-left: 150px;
+    list-style-type:decimal-leading-zero;
+}
+
+ul {
+    margin-left: 150px;
+    list-style-type: square type disc;
+}
