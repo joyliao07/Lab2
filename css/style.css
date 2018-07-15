@@ -1,14 +1,14 @@
 h1 {
     font: bold;
     font-size: 2em; 
-    color: black;
+    color:aliceblue;
     text-indent: 4ch;
 }
 
 h2 {
     font: bold;
     font-size: 1.5em; 
-    color: black;
+    color: aliceblue;
     text-indent: 6ch;
 }
 
@@ -30,4 +30,24 @@ ol {
 ul {
     margin-left: 150px;
     list-style-type: square type disc;
+}
+
+
+body {
+    background-color:#0d261a;
+    color: aliceblue;
+    font-family: 'Courier New';
+}
+
+img {
+    border-radius: 70%;
+    max-width: 40%;
+    opacity: 0.5;
+    float: right;
+    margin-right: 13%;
+}
+
+
+header {
+    margin-top: 40px;
 }
