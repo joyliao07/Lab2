@@ -1,7 +1,7 @@
 'use strict';
+
 var correctAnswer = 0;
 var incorrectAnswer = 0;
-
 
 alert('Do you want to know more about Joyce? She is a very cool developer!');
 alert('Here are some fun facts about Joyce!');
@@ -179,7 +179,7 @@ function statesFun(){
 }
 statesFun();
 
-
+alert('Good job! You got ' + correctAnswer + ' out of 7 questions correct!');
 
 
 
